@@ -1,0 +1,4 @@
+Built a real-time chat platform with agent routing, presence, and offline message handling.
+• Created a multi-channel inbox (email + chat) with quick-reply macros, reducing first-response time.
+• Integrated AI NLP for auto-classifying queries and detecting user intent.
+• Delivered analytics dashboards for SLA tracking and CSAT trends with CSV exports.
